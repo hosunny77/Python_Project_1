@@ -1,4 +1,4 @@
-# SC001 Python Projects
+# SC001 Python Project
 
 A collection of Python assignments completed for **stanCode SC001**, a course adapted from Stanford's CS106A. Each assignment applies a different set of core Python concepts, from control flow to file I/O and image processing.
 
